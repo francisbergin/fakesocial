@@ -2,7 +2,7 @@
 
 Fake social network using generated content.
 
-See https://berfr.github.io/posts/fakesocial for more info.
+See https://francisbergin.github.io/posts/fakesocial for more info.
 
 ## Setup
 
