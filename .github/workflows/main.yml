@@ -33,8 +33,8 @@ jobs:
 
     - name: Push back changes
       run: |
-        git config --global user.name 'berfr github actions bot'
-        git config --global user.email 'berfr4+github-actions-bot@gmail.com'
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git -C site add --all
         git -C site commit -m "Site update" || true
         git -C site push
