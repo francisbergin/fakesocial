@@ -2,7 +2,7 @@
 
 Fake social network using generated content.
 
-See https://francisbergin.github.io/posts/fakesocial for more info.
+See https://francisbergin.net/2020/06/06/fakesocial/ for more info.
 
 ## Setup
 
